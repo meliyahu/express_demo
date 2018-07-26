@@ -4,8 +4,11 @@
   "description": "An Express demo project",
   "main": "index.js",
   "repository": "https://github.com/meliyahu/express_demo.git",
-  "author": "Mosheh EliYahu <mosheh.eliyahu@adelaide.edu.au>",
+  "author": "Mosheh EliYahu <mosheh.eliyahu@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "watch": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.16.3"
   }
