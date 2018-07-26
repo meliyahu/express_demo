@@ -1,0 +1,12 @@
+{
+  "name": "express_demo",
+  "version": "1.0.0",
+  "description": "An Express demo project",
+  "main": "index.js",
+  "repository": "https://github.com/meliyahu/express_demo.git",
+  "author": "Mosheh EliYahu <mosheh.eliyahu@adelaide.edu.au>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
